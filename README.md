@@ -1,4 +1,5 @@
 ## Contributing
+## hacktoberfest
 
 [pr]: https://github.com/raise-dev/hacktoberfest/compare
 [style]: https://github.com/bbatsov/ruby-style-guide
